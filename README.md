@@ -5,4 +5,4 @@
 1. Node Tutorial
 2. Express Tutorial
 
-thanks to node.j course on youtube by freecodecamp
+thanks to node.js course on youtube by freecodecamp
